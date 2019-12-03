@@ -1,0 +1,22 @@
+{
+	"description" : "p站图 忘ID\n侵删",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Anime" ],
+	"title" : "博丽灵梦",
+	"type" : "web",
+	"visibility" : "public"
+}
